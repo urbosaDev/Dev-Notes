@@ -1,0 +1,8 @@
+# Flutter/Dart 관련
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# macOS
+.DS_Store
